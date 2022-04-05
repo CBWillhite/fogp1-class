@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace FOGPISystems.SimpleState
+namespace FOGPISystems.StateMachine
 {
     [System.Serializable]
     public class SimpleState
