@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace FOGPISystems.Helper
+namespace FOGPISystems.Timer
 {
     public class Timer : MonoBehaviour
     {

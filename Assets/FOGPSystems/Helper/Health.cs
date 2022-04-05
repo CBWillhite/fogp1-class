@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Health.Helper
+namespace FOGPISystems.Health
 {
     [System.Serializable]
     public class HealthChangedEvent : UnityEvent<HealthChangedObject> { }
