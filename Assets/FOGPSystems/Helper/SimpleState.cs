@@ -17,8 +17,8 @@ namespace FOGPISystems.StateMachine
         [SerializeField]
         public OnStateExitEvent OnStateExit;
 
-        //[HideInInspector]
-        //protected SimpleStateMachine SimpleState;
+        [HideInInspector]
+        public SimpleStateMachine StateMachine;
 
         public virtual void OnStart()
         {
